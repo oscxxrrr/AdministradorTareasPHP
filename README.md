@@ -48,5 +48,5 @@ Para poner en marcha la aplicación en tu entorno de desarrollo local (utilizand
  2. **Abre editor de textos**
   En una terminal ejecutar
   ```bash
-php -S localhost:80
+   php -S localhost:80
 
